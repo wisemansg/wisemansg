@@ -20,7 +20,7 @@ I am a self-driven professional with a strong focus on innovation and sustainabi
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 
-### [🏆 Check Out My Full Portfolio Website](https://wisemansg.github.io/ "Opens in new tab"){:target="_blank" rel="noopener noreferrer"}
+### [🏆 Check Out My Full Portfolio Website](https://wisemansg.github.io/){:target="_blank"}
       
 ## 🔭 What I'm Currently Working On 
 
