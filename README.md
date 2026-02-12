@@ -160,3 +160,62 @@ I am a self-driven professional with a strong focus on innovation and sustainabi
 
 
 
+
+## Technical & Soft Skillset
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:45%; text-align:left;">Category</th>
+      <th style="text-align:left;">Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project & Enterprise Systems</td>
+      <td>ERP (SAP, Oracle, IFS), STELLA, Trello, Asana, Confluence, Jira, MS Project, PLM (Teamcenter, Windchill, ENOVIA), process documentation, process improvement, workshop facilitation, project coordination</td>
+    </tr>
+    <tr>
+      <td>Data Analysis & Statistics</td>
+      <td>Power BI, Tableau, Spotfire, Grafana, Google Analytics, Adobe Analytics, R, MATLAB, Jupyter, Advanced Excel (VBA, Power Query), data science, machine learning, AI, forecasting, data visualization, KPI tracking, reporting</td>
+    </tr>
+    <tr>
+      <td>Programming Languages</td>
+      <td>SQL, JavaScript, C#, Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch), R, C++, Visual Basic, Visual Studio</td>
+    </tr>
+    <tr>
+      <td>IT & Office Tools</td>
+      <td>Microsoft 365, Excel, PowerPoint, Word, Outlook, Teams, Visio, OneNote, Google Workspace, Adobe, Miro, report writing, process mapping</td>
+    </tr>
+    <tr>
+      <td>Engineering & Simulation</td>
+      <td>ANSYS, ABAQUS, NASTRAN, Simulink, OpenFOAM, COMSOL, Fluent, STAR-CCM+, ASPEN Plus, gPROMS, HYSYS, Thermo-Calc, SimaPro, GaBi, OpenLCA, LabVIEW, ImageJ, HVAC simulation</td>
+    </tr>
+    <tr>
+      <td>CAD & CAM Tools</td>
+      <td>AutoCAD, SolidWorks, CATIA, CREO, Siemens NX, Inventor, Fusion 360, Rhino 3D, Onshape</td>
+    </tr>
+    <tr>
+      <td>Quality & Compliance</td>
+      <td>GMP, GDP, QA, QC, root cause analysis, SPC, Six Sigma, Lean, 5S, Kaizen, VSM, lean manufacturing, risk management</td>
+    </tr>
+    <tr>
+      <td>Manufacturing Systems</td>
+      <td>SAP QM, SAP EWM, Oracle WMS, TrackWise, MES, Dynamics, MSA, manufacturing improvement</td>
+    </tr>
+    <tr>
+      <td>Automation & Control</td>
+      <td>SCADA, n8n, Zapier, CRM, PLC (Siemens, Allen-Bradley), PID optimization</td>
+    </tr>
+    <tr>
+      <td>IT/OT & Virtualization</td>
+      <td>VMware, Azure, AWS, Google Cloud, PROFINET, Modbus, OPC UA, IoT, GitHub, Digital Industries, AR/VR, BMS</td>
+    </tr>
+    <tr>
+      <td>Soft Skills</td>
+      <td>Communication, Collaboration, Problem Solving, Decision-Making, Stakeholder Engagement, Attention to Detail, Resilience, Adaptability, Critical Thinking, Emotional Intelligence, Leadership, Teamwork, Time Management, Creativity, Conflict Resolution, Negotiation, Presentation Skills, Analytical Thinking, Mentoring & Coaching, Stress Management, Active Listening, Networking, Strategic Thinking, Innovation, Empathy, Accountability, Organization, Persuasion, Multitasking</td>
+    </tr>
+  </tbody>
+</table>
+
+
