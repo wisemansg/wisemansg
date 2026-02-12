@@ -52,15 +52,15 @@ I am a self-driven professional with a strong focus on innovation and sustainabi
 
 | Category                                      | Skills |
 |-----------------------------------------------|--------|
-| Project&nbsp;&amp;&nbsp;Enterprise&nbsp;Systems | ERP (SAP, Oracle, IFS), STELLA, Trello, Asana, Confluence, Jira, MS Project, PLM (Teamcenter, Windchill, ENOVIA), process documentation, process improvement, workshop facilitation, project coordination |
+| Project&nbsp;&amp;&nbsp;Enterprise&nbsp;Systems | Enterprise Resource Planning (ERP) including SAP, Oracle, and IFS, STELLA, Trello, Asana, Confluence, Jira, Microsoft Project (MS Project), Product Lifecycle Management (PLM) including Teamcenter, Windchill, and ENOVIA, process documentation, process improvement, workshop facilitation, project coordination |
 | Data&nbsp;Analysis&nbsp;&amp;&nbsp;Statistics  | Power BI, Tableau, Spotfire, Grafana, Google Analytics, Adobe Analytics, R, MATLAB, Jupyter, Advanced Excel (VBA, Power Query), data science, machine learning, AI, forecasting, data visualization, KPI tracking, reporting |
 | Programming&nbsp;Languages                     | SQL, JavaScript, C#, Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch), R, C++, Visual Basic, Visual Studio |
 | IT&nbsp;&Office&nbsp;Tools                     | Microsoft 365, Excel, PowerPoint, Word, Outlook, Teams, Visio, OneNote, Google Workspace, Adobe, Miro, report writing, process mapping |
 | Engineering&nbsp;&Simulation                  | ANSYS, ABAQUS, NASTRAN, Simulink, OpenFOAM, COMSOL, Fluent, STAR-CCM+, ASPEN Plus, gPROMS, HYSYS, Thermo-Calc, SimaPro, GaBi, OpenLCA, LabVIEW, ImageJ, HVAC simulation |
 | CAD&nbsp;&CAM&nbsp;Tools                       | AutoCAD, SolidWorks, CATIA, CREO, Siemens NX, Inventor, Fusion 360, Rhino 3D, Onshape |
-| Quality&nbsp;&Compliance                        | GMP, GDP, QA, QC, root cause analysis, SPC, Six Sigma, Lean, 5S, Kaizen, VSM, lean manufacturing, risk management |
+| Quality&nbsp;&Compliance                        | Good Manufacturing Practice (GMP), Good Distribution Practice (GDP), Quality Assurance (QA), Quality Control (QC), Root Cause Analysis (RCA), Statistical Process Control (SPC), Six Sigma, Lean, 5S, Kaizen, Value Stream Mapping (VSM), Lean Manufacturing, Risk Management |
 | Manufacturing&nbsp;Systems                     | SAP QM, SAP EWM, Oracle WMS, TrackWise, MES, Dynamics, MSA, manufacturing improvement |
 | Automation&nbsp;&Control                        | SCADA, n8n, Zapier, CRM, PLC (Siemens, Allen-Bradley), PID optimization |
-| IT/OT&nbsp;&Virtualization                      | VMware, Azure, AWS, Google Cloud, PROFINET, Modbus, OPC UA, IoT, GitHub, Digital Industries, AR/VR, BMS |
+| IT/OT&nbsp;&Virtualization                      | VMware, Microsoft Azure (Azure), Amazon Web Services (AWS), Google Cloud Platform (GCP), Process Field Net (PROFINET), Modbus, Open Platform Communications Unified Architecture (OPC UA), Internet of Things (IoT), GitHub, Digital Industries, Augmented Reality / Virtual Reality (AR/VR), Building Management System (BMS). |
 | Soft&nbsp;Skills                               | Communication, Collaboration, Problem Solving, Decision-Making, Stakeholder Engagement, Attention to Detail, Resilience, Adaptability, Critical Thinking, Emotional Intelligence, Leadership, Teamwork, Time Management, Creativity, Conflict Resolution, Negotiation, Presentation Skills, Analytical Thinking, Mentoring & Coaching, Stress Management, Active Listening, Networking, Strategic Thinking, Innovation, Empathy, Accountability, Organization, Persuasion, Multitasking |
 
